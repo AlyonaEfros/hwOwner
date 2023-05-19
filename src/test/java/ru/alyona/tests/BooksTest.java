@@ -1,4 +1,4 @@
-package ru.Alyona.tests;
+package ru.alyona.tests;
 
 import com.codeborne.selenide.logevents.SelenideLogger;
 import io.qameta.allure.selenide.AllureSelenide;

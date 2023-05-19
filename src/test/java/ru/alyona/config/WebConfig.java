@@ -1,4 +1,4 @@
-package ru.Alyona.config;
+package ru.alyona.config;
 
 import org.aeonbits.owner.Config;
 

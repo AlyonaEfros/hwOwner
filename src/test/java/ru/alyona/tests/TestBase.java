@@ -1,11 +1,11 @@
-package ru.Alyona.tests;
+package ru.alyona.tests;
 
 import com.codeborne.selenide.logevents.SelenideLogger;
 import io.qameta.allure.selenide.AllureSelenide;
 import org.junit.jupiter.api.BeforeAll;
-import ru.Alyona.config.ConfigReader;
-import ru.Alyona.config.WebConfig;
-import ru.Alyona.config.WebConfigForProject;
+import ru.alyona.config.ConfigReader;
+import ru.alyona.config.WebConfig;
+import ru.alyona.config.WebConfigForProject;
 
 
 public class TestBase {
